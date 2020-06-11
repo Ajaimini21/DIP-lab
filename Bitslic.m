@@ -1,7 +1,4 @@
-% Bit Plane Slicing of an Image
-% Created By :Sumant Wankar
 
- 
 %%
 clc;
 clear;
