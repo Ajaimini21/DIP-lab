@@ -1,9 +1,4 @@
 
-% Histogram Equalization of Image
-%Submitted by:- Sumant Wankar
-
- 
-%%
  
 clc;
 clear;
